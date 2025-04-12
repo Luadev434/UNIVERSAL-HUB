@@ -42,7 +42,7 @@ G2L["5"]["Volume"] = 10;
 G2L["5"]["Name"] = [[LoadSound]];
 G2L["5"]["SoundId"] = [[rbxassetid://103254483938528]];
 
-wait(4)
+wait(6)
 
 local LoadSound = G2L["5"]
 local Message1 = "I HAS SCREAMED☠👻"
